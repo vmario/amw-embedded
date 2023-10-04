@@ -1,3 +1,7 @@
 baseURL = 'https://uc.vmario.org/'
 languageCode = 'pl-pl'
 title = 'Systemy mikroprocesorowe'
+theme = 'hugo-theme-relearn'
+
+[outputs]
+home = ['HTML', 'RSS', 'SEARCH']
