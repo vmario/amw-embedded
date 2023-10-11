@@ -4,4 +4,6 @@ title = 'Systemy mikroprocesorowe'
 theme = 'hugo-theme-relearn'
 
 [outputs]
-home = ['HTML', 'RSS', 'SEARCH']
+home = ['HTML', 'RSS', 'SEARCH', 'PRINT']
+section = ['HTML', 'PRINT']
+page = ['HTML', 'PRINT']
