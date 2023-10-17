@@ -1,7 +1,5 @@
 +++
-archetype = "chapter"
 title = "Wykłady"
-weight = 1
 +++
 
 ## Spis wykładów
