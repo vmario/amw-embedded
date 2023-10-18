@@ -8,7 +8,7 @@ title = "Wykłady"
     {{% badge style="green" icon="calendar" title="Czwartek"%}}12.10.2023{{% /badge %}}
 - [Wykład 2: Sygnały zegarowe](https://slides.uc.vmario.org/lecture-02/)
     {{% badge style="green" icon="calendar" title="Wtorek"%}}17.10.2023{{% /badge %}}
-- Wykład 3
+- [Wykład 3: Pamięci](https://slides.uc.vmario.org/lecture-03/)
     {{% badge style="green" icon="calendar" title="Czwartek"%}}19.10.2023{{% /badge %}}
     {{% button style="tip" icon="university" href="https://pe.amw.gdynia.pl/WirtualneSpotkania/WirtualneSpotkania/50047" %}}Wirtualne spotkanie{{% /button %}}
 - Wykład 4
