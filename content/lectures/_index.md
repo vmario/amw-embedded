@@ -12,6 +12,6 @@ title = "Wykłady"
     {{% badge style="green" icon="calendar" title="Czwartek"%}}19.10.2023{{% /badge %}}
 - [Wykład 4: Budowa i działanie mikrokontrolera](https://slides.uc.vmario.org/lecture-04/)
     {{% badge style="green" icon="calendar" title="Czwartek"%}}26.10.2023{{% /badge %}}
-    {{% button style="tip" icon="university" href="https://pe.amw.gdynia.pl/WirtualneSpotkania/WirtualneSpotkania/50119" %}}Wirtualne spotkanie{{% /button %}}
 - Wykład 5
     {{% badge style="green" icon="calendar" title="Czwartek"%}}09.11.2023{{% /badge %}}
+    {{% button style="tip" icon="university" href="https://pe.amw.gdynia.pl/WirtualneSpotkania/WirtualneSpotkania/50296" %}}Wirtualne spotkanie{{% /button %}}
