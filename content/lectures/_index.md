@@ -14,4 +14,3 @@ title = "Wykłady"
     {{% badge style="green" icon="calendar" title="Czwartek"%}}26.10.2023{{% /badge %}}
 - [Wykład 5: Budowa programu](https://slides.uc.vmario.org/lecture-05/)
     {{% badge style="green" icon="calendar" title="Czwartek"%}}09.11.2023{{% /badge %}}
-    {{% button style="tip" icon="university" href="https://pe.amw.gdynia.pl/WirtualneSpotkania/WirtualneSpotkania/50296" %}}Wirtualne spotkanie{{% /button %}}
