@@ -5,7 +5,7 @@ title = "Laboratorium"
 ## Wprowadzenie
 
 - [Ćwiczenie 0: Wprowadzenie](https://github.com/vmario/amw-embedded-lab-00)
-    {{% button style="tip" icon="fab fa-square-git" href="https://github.com/vmario/amw-embedded-lab-00.git" %}}Klonuj{{% /button %}}
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-00.git" %}}Klonuj{{% /button %}}
 
 ## Spis ćwiczeń
 
