@@ -1,5 +1,6 @@
 +++
 title = "Wykłady"
+weight = 2
 +++
 
 ## Spis wykładów
