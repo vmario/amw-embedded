@@ -25,3 +25,7 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-07.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 8: Tryby oszczędzania energii w mikrokontrolerze](https://github.com/vmario/amw-embedded-lab-08)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-08.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 9: Pomiar czasu względnego za pomocą timera](https://github.com/vmario/amw-embedded-lab-09)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-09.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 10: Zawody CTF (_Capture the flag_)](https://github.com/vmario/amw-embedded-lab-10)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-10.git" %}}Klonuj{{% /button %}}
