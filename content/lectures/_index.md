@@ -21,3 +21,4 @@ weight = 2
 ### Semestr II
 
 - [Wykład 6: Czytanie not katalogowych](https://slides.uc.vmario.org/lecture-06/)
+- [Wykład 7: Magistrale komunikacyjne](https://slides.uc.vmario.org/lecture-07/)
