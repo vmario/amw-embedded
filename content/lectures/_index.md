@@ -21,4 +21,6 @@ weight = 2
 ### Semestr II
 
 - [Wykład 6: Noty katalogowe](https://slides.uc.vmario.org/lecture-06/)
+    {{% badge style="green" icon="calendar" title="Wtorek"%}}27.02.2024{{% /badge %}}
 - [Wykład 7: Magistrale komunikacyjne](https://slides.uc.vmario.org/lecture-07/)
+    {{% badge style="green" icon="calendar" title="Wtorek"%}}05.03.2024{{% /badge %}}
