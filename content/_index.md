@@ -5,7 +5,7 @@ title = "Systemy mikroprocesorowe"
 
 ## Ogłoszenia
 
-{{% notice style="note" title="2024-02-22" %}}
+{{% notice style="info" title="2024-02-22" %}}
 Wszystkie wykłady w semestrze letnim odbędą się w trybie stacjonarnym w sali 216.
 {{% /notice %}}
 
