@@ -26,3 +26,5 @@ weight = 2
     {{% badge style="green" icon="calendar" title="Wtorek"%}}05.03.2024{{% /badge %}}
 - [Wykład 8: Obliczenia stałoprzecinkowe i zmiennoprzecinkowe](https://slides.uc.vmario.org/lecture-08/)
     {{% badge style="green" icon="calendar" title="Wtorek"%}}12.03.2024{{% /badge %}}
+- [Wykład 9: Systemy operacyjne czasu rzeczywistego](https://slides.uc.vmario.org/lecture-09/)
+    {{% badge style="green" icon="calendar" title="Wtorek"%}}19.03.2024{{% /badge %}}
