@@ -7,7 +7,7 @@ title = "Laboratorium"
 - [Ćwiczenie 0: Wprowadzenie](https://github.com/vmario/amw-embedded-lab-00)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-00.git" %}}Klonuj{{% /button %}}
 
-## Spis ćwiczeń
+## Semestr I
 
 - [Ćwiczenie 1: Odczyt i zapis GPIO](https://github.com/vmario/amw-embedded-lab-01)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-01.git" %}}Klonuj{{% /button %}}
@@ -29,3 +29,8 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-09.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 10: Zawody CTF (_Capture the flag_)](https://github.com/vmario/amw-embedded-lab-10)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-10.git" %}}Klonuj{{% /button %}}
+
+## Semestr II
+
+- [Ćwiczenie 11: Obsługa sterownika wyświetlacza alfanumerycznego HD44780](https://github.com/vmario/amw-embedded-lab-11)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-11.git" %}}Klonuj{{% /button %}}
