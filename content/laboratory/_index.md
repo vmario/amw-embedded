@@ -34,3 +34,5 @@ title = "Laboratorium"
 
 - [Ćwiczenie 11: Obsługa sterownika wyświetlacza alfanumerycznego HD44780](https://github.com/vmario/amw-embedded-lab-11)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-11.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 12: Obsługa klawiatury analogowej](https://github.com/vmario/amw-embedded-lab-12)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-12.git" %}}Klonuj{{% /button %}}
