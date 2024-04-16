@@ -36,3 +36,5 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-11.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 12: Obsługa klawiatury analogowej](https://github.com/vmario/amw-embedded-lab-12)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-12.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 13: Minimalizacja rozmiaru programu](https://github.com/vmario/amw-embedded-lab-13)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-13.git" %}}Klonuj{{% /button %}}
