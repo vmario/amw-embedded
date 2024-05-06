@@ -38,3 +38,5 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-12.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 13: Minimalizacja rozmiaru programu](https://github.com/vmario/amw-embedded-lab-13)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-13.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 14: Przechowywanie danych w pamięci Flash](https://github.com/vmario/amw-embedded-lab-14)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-14.git" %}}Klonuj{{% /button %}}
