@@ -40,3 +40,5 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-13.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 14: Przechowywanie danych w pamięci Flash](https://github.com/vmario/amw-embedded-lab-14)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-14.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 15: Synchronizacja przerwania z pętlą główną](https://github.com/vmario/amw-embedded-lab-15)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-15.git" %}}Klonuj{{% /button %}}
