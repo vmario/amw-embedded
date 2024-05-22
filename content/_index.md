@@ -5,6 +5,10 @@ title = "Systemy mikroprocesorowe"
 
 ## Ogłoszenia
 
+{{% notice style="note" title="2024-05-22" %}}
+Zajęcia z 8 maja (wyjazd do Czernicy) odrabiamy 28 maja (wtorek) na godzinach lekcyjnych 1.–4.
+{{% /notice %}}
+
 {{% notice style="note" title="2024-04-03" %}}
 W uzgodnieniu z p. Piotrem Szymakiem, prowadzącym przedmiot _Sterowniki PLC_, nastąpiło przeplanowanie zajęć z obu przedmiotów.
 {{% /notice %}}
