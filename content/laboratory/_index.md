@@ -42,3 +42,7 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-14.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 15: Synchronizacja przerwania z pętlą główną](https://github.com/vmario/amw-embedded-lab-15)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-15.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 16: Wielokanałowy ADC sterowany maszyną stanów](https://github.com/vmario/amw-embedded-lab-16)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-16.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 17: Przechowywanie danych użytkownika w pamięci EEPROM](https://github.com/vmario/amw-embedded-lab-17)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-17.git" %}}Klonuj{{% /button %}}
