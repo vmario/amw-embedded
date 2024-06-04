@@ -46,3 +46,7 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-16.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 17: Przechowywanie danych użytkownika w pamięci EEPROM](https://github.com/vmario/amw-embedded-lab-17)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-17.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 18: Generator pseudolosowy i wskaźniki na funkcje](https://github.com/vmario/amw-embedded-lab-18)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-18.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 19: Magistrala SPI na przykładzie akcelerometru](https://github.com/vmario/amw-embedded-lab-19)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-19.git" %}}Klonuj{{% /button %}}
