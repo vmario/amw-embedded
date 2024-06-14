@@ -50,3 +50,5 @@ title = "Laboratorium"
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-18.git" %}}Klonuj{{% /button %}}
 - [Ćwiczenie 19: Magistrala SPI na przykładzie akcelerometru](https://github.com/vmario/amw-embedded-lab-19)
     {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-19.git" %}}Klonuj{{% /button %}}
+- [Ćwiczenie 20: Gra sterowana czujnikiem ruchu](https://github.com/vmario/amw-embedded-lab-20)
+    {{% button style="tip" icon="code-branch" href="https://github.com/vmario/amw-embedded-lab-20.git" %}}Klonuj{{% /button %}}
